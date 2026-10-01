@@ -1,0 +1,7 @@
+C:\Users\Ghost\source\repos\lab2_3\lab2_3\bin\Debug\lab2_3.exe.config
+C:\Users\Ghost\source\repos\lab2_3\lab2_3\bin\Debug\lab2_3.exe
+C:\Users\Ghost\source\repos\lab2_3\lab2_3\bin\Debug\lab2_3.pdb
+C:\Users\Ghost\source\repos\lab2_3\lab2_3\obj\Debug\lab2_3.csproj.AssemblyReference.cache
+C:\Users\Ghost\source\repos\lab2_3\lab2_3\obj\Debug\lab2_3.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\source\repos\lab2_3\lab2_3\obj\Debug\lab2_3.exe
+C:\Users\Ghost\source\repos\lab2_3\lab2_3\obj\Debug\lab2_3.pdb
